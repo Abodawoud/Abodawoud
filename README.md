@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 ## 🔮About me:
 I am **Front End developer**.
---------------------------
 *   🌍  I'm based in Egypt
 *   🧠  Currently I am student in `ALX SE Programme`
 
