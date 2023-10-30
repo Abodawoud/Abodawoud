@@ -5,7 +5,7 @@
 
 <img src="./giphy.webp"/>
 
-`Full Stack Software Engineer | Student at ALX `
+# `Full Stack Software Engineer | Student at ALX `
 
 
 # Social Media
