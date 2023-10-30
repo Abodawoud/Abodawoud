@@ -19,5 +19,5 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,git,github)](https://skillicons.dev)
 <!-- mongodb,express,nodejs -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abodawoud&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abodawoud&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abodawoud&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abodawoud&theme=github&utcOffset=8)
