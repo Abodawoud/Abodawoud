@@ -2,9 +2,10 @@
 
 # Welcome to my Github Profile
 
-<img src="./giphy.webp"/>
+<center><img src="./giphy.webp"/>
 
 ### `Full Stack Software Engineer | Student at ALX `
+<center/>
 
 
 # Social Media
