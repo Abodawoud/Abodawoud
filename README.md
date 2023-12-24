@@ -14,9 +14,9 @@
 
 
 # Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,figma,python,flask,mysql,c&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,figma,python,bots,flask,mysql,nginx,vscode&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,vim,git,github&perline=5)](https://skillicons.dev)
 <!-- mongodb,express,nodejs -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abodawoud&theme=github)
