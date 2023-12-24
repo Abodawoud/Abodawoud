@@ -14,10 +14,11 @@
 
 
 # Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,figma,python,bots,flask,mysql,nginx,vscode&perline=5)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,vim,git,github&perline=5)](https://skillicons.dev)
-<!-- mongodb,express,nodejs -->
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,figma,python,bots,flask,mysql,nginx,vscode,c,bash,linux,vim,git,github&perline=5" />
+    </a>
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abodawoud&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abodawoud&theme=github&utcOffset=8)
