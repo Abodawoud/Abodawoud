@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&random=false&width=435&lines=Yousef+Abodawoud)](https://git.io/typing-svg)
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cairo&pause=1000&random=false&width=435&lines=I+have+many+names 😎;Yousef+Farouk+Salem;Yousef+Farouk+Abodawoud;Abodawoud;Dod" alt="Typing SVG" /></a>
 
 # Welcome to my Github Profile
 
