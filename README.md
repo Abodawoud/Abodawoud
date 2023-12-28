@@ -2,7 +2,7 @@
 
 # Welcome to my Github Profile
 
-<center><img src="./giphy.webp"/>
+<center><img src="./giphy.gif"/>
 
 ### `Full Stack Software Engineer | Student at ALX `
 <center/>
@@ -20,5 +20,11 @@
     </a>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abodawoud&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Abodawoud/github-readme-activity-graph)
+
+<div width="100%" align="center">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abodawoud&theme=transparent"/>
+</div>
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abodawoud&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abodawoud&theme=github&utcOffset=8)
